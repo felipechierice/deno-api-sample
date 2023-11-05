@@ -1,0 +1,502 @@
+[
+    {
+        "verb": "Come in",
+        "translation": "Entrar",
+        "example": "Please come in and make yourself at home."
+    },
+    {
+        "verb": "Go out",
+        "translation": "Sair",
+        "example": "Let's go out for dinner tonight."
+    },
+    {
+        "verb": "Come back",
+        "translation": "Voltar",
+        "example": "When will you come back from your trip?"
+    },
+    {
+        "verb": "Set up",
+        "translation": "Configurar, montar",
+        "example": "I need to set up my new computer."
+    },
+    {
+        "verb": "Pick up",
+        "translation": "Pegar, recolher",
+        "example": "Can you pick up some groceries on your way home?"
+    },
+    {
+        "verb": "Break up",
+        "translation": "Terminar um relacionamento",
+        "example": "They decided to break up after years of dating."
+    },
+    {
+        "verb": "Bring up",
+        "translation": "Criar, educar",
+        "example": "My parents brought me up with strong values."
+    },
+    {
+        "verb": "Call off",
+        "translation": "Cancelar",
+        "example": "They had to call off the event due to bad weather."
+    },
+    {
+        "verb": "Call back",
+        "translation": "Retornar uma ligação",
+        "example": "I'll call you back as soon as I'm available."
+    },
+    {
+        "verb": "Run out of",
+        "translation": "Esgotar, ficar sem",
+        "example": "We've run out of milk; we need to buy more."
+    },
+    {
+        "verb": "Stand up",
+        "translation": "Levantar-se",
+        "example": "Please stand up when the national anthem plays."
+    },
+    {
+        "verb": "Take out",
+        "translation": "Tirar, remover",
+        "example": "I need to take out the trash."
+    },
+    {
+        "verb": "Break down",
+        "translation": "Quebrar, falhar",
+        "example": "My car broke down on the way to work."
+    },
+    {
+        "verb": "Put away",
+        "translation": "Guardar",
+        "example": "Don't forget to put away your toys."
+    },
+    {
+        "verb": "Put off",
+        "translation": "Adiar",
+        "example": "They had to put off the meeting until next week."
+    },
+    {
+        "verb": "Look after",
+        "translation": "Cuidar de",
+        "example": "She looks after her younger siblings."
+    },
+    {
+        "verb": "Run into",
+        "translation": "Encontrar por acaso",
+        "example": "I ran into an old friend at the mall."
+    },
+    {
+        "verb": "Show up",
+        "translation": "Aparecer",
+        "example": "He didn't show up for the appointment."
+    },
+    {
+        "verb": "Carry out",
+        "translation": "Realizar, executar",
+        "example": "The company will carry out the project as planned."
+    },
+    {
+        "verb": "Run away",
+        "translation": "Fugir",
+        "example": "The dog ran away from home."
+    },
+    {
+        "verb": "Hold on",
+        "translation": "Esperar, aguardar",
+        "example": "Please hold on for a moment; I'll be right back."
+    },
+    {
+        "verb": "Turn up",
+        "translation": "Aparecer, chegar",
+        "example": "He turned up at the party unexpectedly."
+    },
+    {
+        "verb": "Check in",
+        "translation": "Fazer o check-in",
+        "example": "You can check in at the hotel any time after 3 PM."
+    },
+    {
+        "verb": "Check out",
+        "translation": "Fazer o check-out",
+        "example": "We need to check out of the hotel by noon."
+    },
+    {
+        "verb": "Get in",
+        "translation": "Entrar",
+        "example": "How did the cat get in the house?"
+    },
+    {
+        "verb": "Get out",
+        "translation": "Sair",
+        "example": "Let's get out of the house and enjoy the day."
+    },
+    {
+        "verb": "Look out",
+        "translation": "Cuidado, atenção",
+        "example": "Look out for traffic when crossing the street."
+    },
+    {
+        "verb": "Come over",
+        "translation": "Vir até aqui",
+        "example": "Why don't you come over for dinner tonight?"
+    },
+    {
+        "verb": "Come up",
+        "translation": "Surgir, acontecer",
+        "example": "Unexpected problems came up during the project."
+    },
+    {
+        "verb": "Put up with",
+        "translation": "Tolerar",
+        "example": "I can't put up with his constant complaining."
+    },
+    {
+        "verb": "Come along",
+        "translation": "Acompanhar, ir junto",
+        "example": "Are you coming along to the party tonight?"
+    },
+    {
+        "verb": "Go over",
+        "translation": "Rever, analisar",
+        "example": "Let's go over the details of the plan one more time."
+    },
+    {
+        "verb": "Go through",
+        "translation": "Passar por, enfrentar",
+        "example": "She had to go through a difficult time in her life."
+    },
+    {
+        "verb": "Show off",
+        "translation": "Exibir-se",
+        "example": "He likes to show off his new sports car."
+    },
+    {
+        "verb": "Break in",
+        "translation": "Arrombar",
+        "example": "Someone tried to break in through the back door."
+    },
+    {
+        "verb": "Bring in",
+        "translation": "Introduzir, trazer",
+        "example": "The company plans to bring in a new product line."
+    },
+    {
+        "verb": "Give in",
+        "translation": "Ceder, render-se",
+        "example": "Don't give in to peer pressure; stand your ground."
+    },
+    {
+        "verb": "Go on",
+        "translation": "Continuar, prosseguir",
+        "example": "Please go on with your presentation."
+    },
+    {
+        "verb": "Give up",
+        "translation": "Desistir",
+        "example": "Don't give up on your dreams."
+    },
+    {
+        "verb": "Take off",
+        "translation": "Decolar, tirar",
+        "example": "The plane will take off in 10 minutes."
+    },
+    {
+        "verb": "Put on",
+        "translation": "Vestir, colocar",
+        "example": "Put on your jacket; it's cold outside."
+    },
+    {
+        "verb": "Turn on",
+        "translation": "Ligar",
+        "example": "Turn on the lights, it's getting dark."
+    },
+    {
+        "verb": "Turn off",
+        "translation": "Desligar",
+        "example": "Please turn off the TV when you're done."
+    },
+    {
+        "verb": "Look for",
+        "translation": "Procurar por",
+        "example": "I'm looking for my keys; have you seen them?"
+    },
+    {
+        "verb": "Look up",
+        "translation": "Pesquisar, procurar",
+        "example": "You can look up that information on the internet."
+    },
+    {
+        "verb": "Get up",
+        "translation": "Levantar-se",
+        "example": "I usually get up early in the morning."
+    },
+    {
+        "verb": "Wake up",
+        "translation": "Acordar",
+        "example": "I wake up at 6 AM every day."
+    },
+    {
+        "verb": "Make up",
+        "translation": "Inventar, reconciliar",
+        "example": "Can you make up a story to entertain the kids?"
+    },
+    {
+        "verb": "Settle down",
+        "translation": "Estabelecer-se",
+        "example": "After years of traveling, she decided to settle down in a quiet town."
+    },
+    {
+        "verb": "Take in",
+        "translation": "Compreender, absorver",
+        "example": "It takes time to take in the details of a complex issue."
+    },
+    {
+        "verb": "Take on",
+        "translation": "Assumir, aceitar",
+        "example": "He's willing to take on new responsibilities at work."
+    },
+    {
+        "verb": "Turn in",
+        "translation": "Ir dormir, entregar",
+        "example": "I'm tired and will turn in for the night."
+    },
+    {
+        "verb": "Turn out",
+        "translation": "Produzir, resultar",
+        "example": "The recipe turned out delicious."
+    },
+    {
+        "verb": "Run over",
+        "translation": "Atropelar",
+        "example": "The car accidentally ran over the bicycle."
+    },
+    {
+        "verb": "Give away",
+        "translation": "Doar, revelar",
+        "example": "She decided to give away her old clothes to charity."
+    },
+    {
+        "verb": "Hand in",
+        "translation": "Entregar",
+        "example": "Please hand in your assignments by the deadline."
+    },
+    {
+        "verb": "Hang up",
+        "translation": "Desligar o telefone",
+        "example": "I accidentally hung up on the important call."
+    },
+    {
+        "verb": "Keep on",
+        "translation": "Continuar, perseverar",
+        "example": "Keep on working hard, and you'll achieve your goals."
+    },
+    {
+        "verb": "Let in",
+        "translation": "Permitir a entrada",
+        "example": "The doorman let us into the building."
+    },
+    {
+        "verb": "Look down on",
+        "translation": "Desprezar",
+        "example": "Don't look down on people who are less fortunate."
+    },
+    {
+        "verb": "Put up",
+        "translation": "Hospedar",
+        "example": "We can put you up for the night if you need a place to stay."
+    },
+    {
+        "verb": "Put out",
+        "translation": "Apagar, extinguir",
+        "example": "He quickly put out the fire in the kitchen."
+    },
+    {
+        "verb": "Break out",
+        "translation": "Irromper, começar",
+        "example": "Chaos broke out after the announcement."
+    },
+    {
+        "verb": "Carry on",
+        "translation": "Continuar",
+        "example": "Despite the challenges, they decided to carry on."
+    },
+    {
+        "verb": "Fall apart",
+        "translation": "Desmoronar, desintegrar",
+        "example": "The old building is falling apart."
+    },
+    {
+        "verb": "Find out",
+        "translation": "Descobrir",
+        "example": "I finally found out the truth about what happened."
+    },
+    {
+        "verb": "Get off",
+        "translation": "Sair, descer",
+        "example": "I'll get off the bus at the next stop."
+    },
+    {
+        "verb": "Get on",
+        "translation": "Subir, entrar",
+        "example": "Get on the train before it departs."
+    },
+    {
+        "verb": "Hold up",
+        "translation": "Atrasar, segurar",
+        "example": "Traffic held us up, and we were late for the meeting."
+    },
+    {
+        "verb": "Look forward to",
+        "translation": "Aguardar ansiosamente",
+        "example": "I look forward to the weekend to relax."
+    },
+    {
+        "verb": "Make out",
+        "translation": "Entender, identificar",
+        "example": "It's hard to make out what the sign says from here."
+    },
+    {
+        "verb": "Set out",
+        "translation": "Partir, começar",
+        "example": "We set out on our journey early in the morning."
+    },
+    {
+        "verb": "Take over",
+        "translation": "Assumir o controle",
+        "example": "The new manager will take over the team next month."
+    },
+    {
+        "verb": "Take up",
+        "translation": "Começar a praticar algo",
+        "example": "She decided to take up painting as a hobby."
+    },
+    {
+        "verb": "Turn down",
+        "translation": "Recusar, diminuir",
+        "example": "They had to turn down the job offer."
+    },
+    {
+        "verb": "Bring back",
+        "translation": "Trazer de volta",
+        "example": "Can you bring back some souvenirs from your trip?"
+    },
+    {
+        "verb": "Check out",
+        "translation": "Verificar, conferir",
+        "example": "You should check out that new restaurant in town."
+    },
+    {
+        "verb": "Get away",
+        "translation": "Escapar",
+        "example": "We need a vacation to get away from our routine."
+    },
+    {
+        "verb": "Get by",
+        "translation": "Se virar, sobreviver",
+        "example": "It's tough to get by on a low income."
+    },
+    {
+        "verb": "Go through",
+        "translation": "Passar por, experimentar",
+        "example": "She had to go through a difficult experience."
+    },
+    {
+        "verb": "Look up to",
+        "translation": "Admirar",
+        "example": "I've always looked up to my older brother."
+    },
+    {
+        "verb": "Run into",
+        "translation": "Encontrar por acaso",
+        "example": "I ran into an old friend at the coffee shop."
+    },
+    {
+        "verb": "Show up",
+        "translation": "Aparecer",
+        "example": "Please make sure to show up on time for the meeting."
+    },
+    {
+        "verb": "Turn up",
+        "translation": "Aparecer, chegar",
+        "example": "He finally turned up at the party."
+    },
+    {
+        "verb": "Call up",
+        "translation": "Telefonar para",
+        "example": "I'll call up my friend to see if he can come over."
+    },
+    {
+        "verb": "Come up with",
+        "translation": "Inventar, criar",
+        "example": "They came up with a brilliant idea for the project."
+    },
+    {
+        "verb": "Cut off",
+        "translation": "Cortar, interromper",
+        "example": "The storm cut off the power supply."
+    },
+    {
+        "verb": "Drop off",
+        "translation": "Deixar alguém em algum lugar",
+        "example": "I'll drop you off at the train station on my way to work."
+    },
+    {
+        "verb": "Go on with",
+        "translation": "Continuar com",
+        "example": "Let's go on with the presentation after the break."
+    },
+    {
+        "verb": "Hold back",
+        "translation": "Segurar, conter",
+        "example": "She had to hold back her tears during the sad movie."
+    },
+    {
+        "verb": "Make up for",
+        "translation": "Compensar",
+        "example": "He tried to make up for being late by buying flowers."
+    },
+    {
+        "verb": "Point out",
+        "translation": "Apontar, destacar",
+        "example": "He was quick to point out the mistake in the report."
+    },
+    {
+        "verb": "Put forward",
+        "translation": "Propor, apresentar",
+        "example": "She put forward a new idea during the meeting."
+    },
+    {
+        "verb": "Set off",
+        "translation": "Partir, iniciar",
+        "example": "They set off on their road trip early in the morning."
+    },
+    {
+        "verb": "Take off",
+        "translation": "Decolar, tirar",
+        "example": "The plane is scheduled to take off in an hour."
+    },
+    {
+        "verb": "Take on",
+        "translation": "Assumir, enfrentar",
+        "example": "He's ready to take on any challenge that comes his way."
+    },
+    {
+        "verb": "Turn on",
+        "translation": "Ligar",
+        "example": "Turn on the heater; it's cold in here."
+    },
+    {
+        "verb": "Turn off",
+        "translation": "Desligar",
+        "example": "Please remember to turn off the lights before leaving."
+    },
+    {
+        "verb": "Turn up",
+        "translation": "Aparecer, chegar",
+        "example": "I hope the guests will turn up for the party."
+    },
+    {
+        "verb": "Wake up",
+        "translation": "Acordar",
+        "example": "I usually wake up at 7 AM on weekdays."
+    }
+]
